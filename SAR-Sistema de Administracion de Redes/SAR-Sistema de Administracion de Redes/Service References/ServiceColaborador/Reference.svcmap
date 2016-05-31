@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="efcd56b0-d29a-48be-809f-543e600194a1" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:6052/Colaboradores.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="Colaboradores.xsd" MetadataType="Schema" ID="081a2b4a-32bf-466e-b6c9-9025fade79df" SourceId="1" SourceUrl="http://localhost:6052/Colaboradores.svc?xsd=xsd3" />
+    <MetadataFile FileName="Colaboradores.disco" MetadataType="Disco" ID="9080653b-1850-49f9-8b7d-e4974bd3846b" SourceId="1" SourceUrl="http://localhost:6052/Colaboradores.svc?disco" />
+    <MetadataFile FileName="Colaboradores1.xsd" MetadataType="Schema" ID="62799d1e-9c34-4583-8690-f5863d44c4f4" SourceId="1" SourceUrl="http://localhost:6052/Colaboradores.svc?xsd=xsd1" />
+    <MetadataFile FileName="Colaboradores2.xsd" MetadataType="Schema" ID="e6f77e6e-c615-4d69-8119-b3d4d751ef12" SourceId="1" SourceUrl="http://localhost:6052/Colaboradores.svc?xsd=xsd2" />
+    <MetadataFile FileName="Colaboradores3.xsd" MetadataType="Schema" ID="fb50cda8-8660-4d57-b67f-78b29af70260" SourceId="1" SourceUrl="http://localhost:6052/Colaboradores.svc?xsd=xsd0" />
+    <MetadataFile FileName="Colaboradores.wsdl" MetadataType="Wsdl" ID="e4d477dd-da18-4930-a071-3c6b2a9542c5" SourceId="1" SourceUrl="http://localhost:6052/Colaboradores.svc?wsdl" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

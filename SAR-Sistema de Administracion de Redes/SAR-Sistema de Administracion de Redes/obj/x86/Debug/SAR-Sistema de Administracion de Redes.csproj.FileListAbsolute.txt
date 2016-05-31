@@ -1,0 +1,21 @@
+C:\Users\JOSE\Documents\Visual Studio 2013\Projects\SAR-Sistema de Administracion de Redes\SAR-Sistema de Administracion de Redes\obj\x86\Debug\SAR_Sistema_de_Administracion_de_Redes.Form1.resources
+C:\Users\JOSE\Documents\Visual Studio 2013\Projects\SAR-Sistema de Administracion de Redes\SAR-Sistema de Administracion de Redes\obj\x86\Debug\SAR_Sistema_de_Administracion_de_Redes.Form2.resources
+C:\Users\JOSE\Documents\Visual Studio 2013\Projects\SAR-Sistema de Administracion de Redes\SAR-Sistema de Administracion de Redes\obj\x86\Debug\SAR_Sistema_de_Administracion_de_Redes.Form3.resources
+C:\Users\JOSE\Documents\Visual Studio 2013\Projects\SAR-Sistema de Administracion de Redes\SAR-Sistema de Administracion de Redes\obj\x86\Debug\SAR_Sistema_de_Administracion_de_Redes.Form6.resources
+C:\Users\JOSE\Documents\Visual Studio 2013\Projects\SAR-Sistema de Administracion de Redes\SAR-Sistema de Administracion de Redes\obj\x86\Debug\SAR_Sistema_de_Administracion_de_Redes.Form5.resources
+C:\Users\JOSE\Documents\Visual Studio 2013\Projects\SAR-Sistema de Administracion de Redes\SAR-Sistema de Administracion de Redes\obj\x86\Debug\SAR_Sistema_de_Administracion_de_Redes.Properties.Resources.resources
+C:\Users\JOSE\Documents\Visual Studio 2013\Projects\SAR-Sistema de Administracion de Redes\SAR-Sistema de Administracion de Redes\obj\x86\Debug\SAR-Sistema de Administracion de Redes.csproj.GenerateResource.Cache
+C:\Users\JOSE\Documents\Visual Studio 2013\Projects\SAR-Sistema de Administracion de Redes\SAR-Sistema de Administracion de Redes\bin\Debug\SAR-Sistema de Administracion de Redes.exe.config
+C:\Users\JOSE\Documents\Visual Studio 2013\Projects\SAR-Sistema de Administracion de Redes\SAR-Sistema de Administracion de Redes\bin\Debug\SAR-Sistema de Administracion de Redes.exe.manifest
+C:\Users\JOSE\Documents\Visual Studio 2013\Projects\SAR-Sistema de Administracion de Redes\SAR-Sistema de Administracion de Redes\bin\Debug\SAR-Sistema de Administracion de Redes.application
+C:\Users\JOSE\Documents\Visual Studio 2013\Projects\SAR-Sistema de Administracion de Redes\SAR-Sistema de Administracion de Redes\bin\Debug\SAR-Sistema de Administracion de Redes.exe
+C:\Users\JOSE\Documents\Visual Studio 2013\Projects\SAR-Sistema de Administracion de Redes\SAR-Sistema de Administracion de Redes\bin\Debug\SAR-Sistema de Administracion de Redes.pdb
+C:\Users\JOSE\Documents\Visual Studio 2013\Projects\SAR-Sistema de Administracion de Redes\SAR-Sistema de Administracion de Redes\obj\x86\Debug\SAR-Sistema de Administracion de Redes.exe.manifest
+C:\Users\JOSE\Documents\Visual Studio 2013\Projects\SAR-Sistema de Administracion de Redes\SAR-Sistema de Administracion de Redes\obj\x86\Debug\SAR-Sistema de Administracion de Redes.application
+C:\Users\JOSE\Documents\Visual Studio 2013\Projects\SAR-Sistema de Administracion de Redes\SAR-Sistema de Administracion de Redes\obj\x86\Debug\SAR-Sistema de Administracion de Redes.exe
+C:\Users\JOSE\Documents\Visual Studio 2013\Projects\SAR-Sistema de Administracion de Redes\SAR-Sistema de Administracion de Redes\obj\x86\Debug\SAR-Sistema de Administracion de Redes.pdb
+C:\Users\JOSE\Documents\Visual Studio 2013\Projects\SAR-Sistema de Administracion de Redes\SAR-Sistema de Administracion de Redes\obj\x86\Debug\SAR-Sistema de Administracion de Redes.csprojResolveAssemblyReference.cache
+C:\Users\JOSE\Documents\Visual Studio 2013\Projects\SAR-Sistema de Administracion de Redes\SAR-Sistema de Administracion de Redes\obj\x86\Debug\SAR_Sistema_de_Administracion_de_Redes.Modificar.resources
+C:\Users\JOSE\Documents\Visual Studio 2013\Projects\SAR-Sistema de Administracion de Redes\SAR-Sistema de Administracion de Redes\obj\x86\Debug\SAR_Sistema_de_Administracion_de_Redes.Colaborador.resources
+C:\Users\JOSE\Documents\Visual Studio 2013\Projects\SAR-Sistema de Administracion de Redes\SAR-Sistema de Administracion de Redes\bin\Debug\EquipoService.dll
+C:\Users\JOSE\Documents\Visual Studio 2013\Projects\SAR-Sistema de Administracion de Redes\SAR-Sistema de Administracion de Redes\bin\Debug\EquipoService.pdb

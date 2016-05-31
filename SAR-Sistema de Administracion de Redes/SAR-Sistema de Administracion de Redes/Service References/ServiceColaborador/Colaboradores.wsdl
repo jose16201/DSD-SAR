@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:tns="http://tempuri.org/" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:wsx="http://schemas.xmlsoap.org/ws/2004/09/mex" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="Colaboradores" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://tempuri.org/Imports">
+      <xsd:import schemaLocation="http://localhost:6052/Colaboradores.svc?xsd=xsd0" namespace="http://tempuri.org/" />
+      <xsd:import schemaLocation="http://localhost:6052/Colaboradores.svc?xsd=xsd3" namespace="http://schemas.datacontract.org/2004/07/SARSOAPService.Errores" />
+      <xsd:import schemaLocation="http://localhost:6052/Colaboradores.svc?xsd=xsd1" namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+      <xsd:import schemaLocation="http://localhost:6052/Colaboradores.svc?xsd=xsd2" namespace="http://schemas.datacontract.org/2004/07/SARSOAPService.Dominio" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="IColaboradores_CrearColaborador_InputMessage">
+    <wsdl:part name="parameters" element="tns:CrearColaborador" />
+  </wsdl:message>
+  <wsdl:message name="IColaboradores_CrearColaborador_OutputMessage">
+    <wsdl:part name="parameters" element="tns:CrearColaboradorResponse" />
+  </wsdl:message>
+  <wsdl:message name="IColaboradores_CrearColaborador_RepetidoExceptionFault_FaultMessage">
+    <wsdl:part xmlns:q1="http://schemas.datacontract.org/2004/07/SARSOAPService.Errores" name="detail" element="q1:RepetidoException" />
+  </wsdl:message>
+  <wsdl:message name="IColaboradores_ObtenerColaborador_InputMessage">
+    <wsdl:part name="parameters" element="tns:ObtenerColaborador" />
+  </wsdl:message>
+  <wsdl:message name="IColaboradores_ObtenerColaborador_OutputMessage">
+    <wsdl:part name="parameters" element="tns:ObtenerColaboradorResponse" />
+  </wsdl:message>
+  <wsdl:message name="IColaboradores_ModificarColaborador_InputMessage">
+    <wsdl:part name="parameters" element="tns:ModificarColaborador" />
+  </wsdl:message>
+  <wsdl:message name="IColaboradores_ModificarColaborador_OutputMessage">
+    <wsdl:part name="parameters" element="tns:ModificarColaboradorResponse" />
+  </wsdl:message>
+  <wsdl:message name="IColaboradores_EliminarColaborador_InputMessage">
+    <wsdl:part name="parameters" element="tns:EliminarColaborador" />
+  </wsdl:message>
+  <wsdl:message name="IColaboradores_EliminarColaborador_OutputMessage">
+    <wsdl:part name="parameters" element="tns:EliminarColaboradorResponse" />
+  </wsdl:message>
+  <wsdl:message name="IColaboradores_ListarColaborador_InputMessage">
+    <wsdl:part name="parameters" element="tns:ListarColaborador" />
+  </wsdl:message>
+  <wsdl:message name="IColaboradores_ListarColaborador_OutputMessage">
+    <wsdl:part name="parameters" element="tns:ListarColaboradorResponse" />
+  </wsdl:message>
+  <wsdl:portType name="IColaboradores">
+    <wsdl:operation name="CrearColaborador">
+      <wsdl:input wsaw:Action="http://tempuri.org/IColaboradores/CrearColaborador" message="tns:IColaboradores_CrearColaborador_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IColaboradores/CrearColaboradorResponse" message="tns:IColaboradores_CrearColaborador_OutputMessage" />
+      <wsdl:fault wsaw:Action="http://tempuri.org/IColaboradores/CrearColaboradorRepetidoExceptionFault" name="RepetidoExceptionFault" message="tns:IColaboradores_CrearColaborador_RepetidoExceptionFault_FaultMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ObtenerColaborador">
+      <wsdl:input wsaw:Action="http://tempuri.org/IColaboradores/ObtenerColaborador" message="tns:IColaboradores_ObtenerColaborador_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IColaboradores/ObtenerColaboradorResponse" message="tns:IColaboradores_ObtenerColaborador_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ModificarColaborador">
+      <wsdl:input wsaw:Action="http://tempuri.org/IColaboradores/ModificarColaborador" message="tns:IColaboradores_ModificarColaborador_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IColaboradores/ModificarColaboradorResponse" message="tns:IColaboradores_ModificarColaborador_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="EliminarColaborador">
+      <wsdl:input wsaw:Action="http://tempuri.org/IColaboradores/EliminarColaborador" message="tns:IColaboradores_EliminarColaborador_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IColaboradores/EliminarColaboradorResponse" message="tns:IColaboradores_EliminarColaborador_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ListarColaborador">
+      <wsdl:input wsaw:Action="http://tempuri.org/IColaboradores/ListarColaborador" message="tns:IColaboradores_ListarColaborador_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IColaboradores/ListarColaboradorResponse" message="tns:IColaboradores_ListarColaborador_OutputMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="BasicHttpBinding_IColaboradores" type="tns:IColaboradores">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="CrearColaborador">
+      <soap:operation soapAction="http://tempuri.org/IColaboradores/CrearColaborador" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="RepetidoExceptionFault">
+        <soap:fault use="literal" name="RepetidoExceptionFault" namespace="" />
+      </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="ObtenerColaborador">
+      <soap:operation soapAction="http://tempuri.org/IColaboradores/ObtenerColaborador" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ModificarColaborador">
+      <soap:operation soapAction="http://tempuri.org/IColaboradores/ModificarColaborador" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="EliminarColaborador">
+      <soap:operation soapAction="http://tempuri.org/IColaboradores/EliminarColaborador" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarColaborador">
+      <soap:operation soapAction="http://tempuri.org/IColaboradores/ListarColaborador" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="Colaboradores">
+    <wsdl:port name="BasicHttpBinding_IColaboradores" binding="tns:BasicHttpBinding_IColaboradores">
+      <soap:address location="http://localhost:6052/Colaboradores.svc" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

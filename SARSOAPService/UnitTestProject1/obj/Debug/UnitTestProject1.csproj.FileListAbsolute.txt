@@ -1,0 +1,6 @@
+C:\Users\JOSE\documents\visual studio 2013\Projects\SARSOAPService\UnitTestProject1\bin\Debug\UnitTestProject1.dll.config
+C:\Users\JOSE\documents\visual studio 2013\Projects\SARSOAPService\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\JOSE\documents\visual studio 2013\Projects\SARSOAPService\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\JOSE\documents\visual studio 2013\Projects\SARSOAPService\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+C:\Users\JOSE\documents\visual studio 2013\Projects\SARSOAPService\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\JOSE\documents\visual studio 2013\Projects\SARSOAPService\UnitTestProject1\obj\Debug\UnitTestProject1.pdb

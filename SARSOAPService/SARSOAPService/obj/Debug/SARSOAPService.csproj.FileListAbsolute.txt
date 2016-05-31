@@ -1,0 +1,6 @@
+C:\Users\JOSE\Documents\Visual Studio 2013\Projects\SARSOAPService\SARSOAPService\bin\SARSOAPService.dll.config
+C:\Users\JOSE\Documents\Visual Studio 2013\Projects\SARSOAPService\SARSOAPService\bin\SARSOAPService.dll
+C:\Users\JOSE\Documents\Visual Studio 2013\Projects\SARSOAPService\SARSOAPService\bin\SARSOAPService.pdb
+C:\Users\JOSE\Documents\Visual Studio 2013\Projects\SARSOAPService\SARSOAPService\obj\Debug\SARSOAPService.dll
+C:\Users\JOSE\Documents\Visual Studio 2013\Projects\SARSOAPService\SARSOAPService\obj\Debug\SARSOAPService.pdb
+C:\Users\JOSE\Documents\Visual Studio 2013\Projects\SARSOAPService\SARSOAPService\obj\Debug\SARSOAPService.csprojResolveAssemblyReference.cache

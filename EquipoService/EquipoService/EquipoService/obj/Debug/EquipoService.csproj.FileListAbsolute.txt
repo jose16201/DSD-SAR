@@ -1,0 +1,11 @@
+c:\users\operador\documents\visual studio 2013\Projects\EquipoService\EquipoService\bin\EquipoService.dll.config
+c:\users\operador\documents\visual studio 2013\Projects\EquipoService\EquipoService\bin\EquipoService.dll
+c:\users\operador\documents\visual studio 2013\Projects\EquipoService\EquipoService\bin\EquipoService.pdb
+c:\users\operador\documents\visual studio 2013\Projects\EquipoService\EquipoService\obj\Debug\EquipoService.dll
+c:\users\operador\documents\visual studio 2013\Projects\EquipoService\EquipoService\obj\Debug\EquipoService.pdb
+C:\Users\JOSE\Documents\Visual Studio 2013\Projects\EquipoService\EquipoService\EquipoService\obj\Debug\EquipoService.csprojResolveAssemblyReference.cache
+C:\Users\JOSE\Documents\Visual Studio 2013\Projects\EquipoService\EquipoService\EquipoService\obj\Debug\EquipoService.dll
+C:\Users\JOSE\Documents\Visual Studio 2013\Projects\EquipoService\EquipoService\EquipoService\obj\Debug\EquipoService.pdb
+C:\Users\JOSE\Documents\Visual Studio 2013\Projects\EquipoService\EquipoService\EquipoService\bin\EquipoService.dll.config
+C:\Users\JOSE\Documents\Visual Studio 2013\Projects\EquipoService\EquipoService\EquipoService\bin\EquipoService.dll
+C:\Users\JOSE\Documents\Visual Studio 2013\Projects\EquipoService\EquipoService\EquipoService\bin\EquipoService.pdb

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="1dc1fe97-22fb-4682-b6e4-938292ff29a7" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:6052/Equipos.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="Equipos.xsd" MetadataType="Schema" ID="52e7a26b-ac99-4555-b912-5e3da0fdde4c" SourceId="1" SourceUrl="http://localhost:6052/Equipos.svc?xsd=xsd3" />
+    <MetadataFile FileName="Equipos1.xsd" MetadataType="Schema" ID="b9ca262b-b6e7-4064-9f29-3ed97195c3e2" SourceId="1" SourceUrl="http://localhost:6052/Equipos.svc?xsd=xsd2" />
+    <MetadataFile FileName="Equipos.disco" MetadataType="Disco" ID="4ada1712-6740-4bf0-abe7-c9d8d1a34683" SourceId="1" SourceUrl="http://localhost:6052/Equipos.svc?disco" />
+    <MetadataFile FileName="Equipos2.xsd" MetadataType="Schema" ID="d4b981ce-2a56-4375-b0b5-11944bc38b4f" SourceId="1" SourceUrl="http://localhost:6052/Equipos.svc?xsd=xsd0" />
+    <MetadataFile FileName="Equipos3.xsd" MetadataType="Schema" ID="1229847e-031e-41a7-938c-90556645bf35" SourceId="1" SourceUrl="http://localhost:6052/Equipos.svc?xsd=xsd1" />
+    <MetadataFile FileName="Equipos.wsdl" MetadataType="Wsdl" ID="8b6905f8-9535-4afd-b53f-59828cf70587" SourceId="1" SourceUrl="http://localhost:6052/Equipos.svc?wsdl" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

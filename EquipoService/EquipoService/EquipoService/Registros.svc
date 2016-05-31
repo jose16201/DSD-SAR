@@ -1,0 +1,9 @@
+﻿<%@ ServiceHost 
+    Language="C#" 
+    Debug="true" 
+    Service="EquipoService.Registros" 
+    CodeBehind="Registros.svc.cs" 
+    Factory="System.ServiceModel.Activation.WebServiceHostFactory"
+    
+    
+    %>
